@@ -8,4 +8,7 @@ I learn languages for fun. I know French and I’m currently hyperfixated on Ger
 
 Currently: learning → building → breaking → rebuilding → shipping locally → breaking in production → debugging → repeating the loop
 
-Let’s connect and Let's Build ⭐️
+**Let’s connect and Let's Build** ⭐️
+
+Portfolio : https://snehaai-fz6ddumx.manus.space| LinkedIn : https://www.linkedin.com/in/sneha-sharma-045350433/ 
+Email : snehasharma272006@gmail.com
