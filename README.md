@@ -4,9 +4,11 @@ I’m a 3rd-year engineering student working at the intersection of software eng
 
 My current obsession is turning LLMs into useful systems that combine RAG, agents, semantic search, APIs, databases, and full-stack engineering to build things people can actually use.
 
-I learn languages for fun. I know French and I’m currently hyperfixated on German.
+I'm currently working on PULSE AI as my primary project.
 
-Currently: learning → building → breaking → rebuilding → shipping locally → breaking in production → debugging → repeating the loop
+I learn languages for fun. I know French and I’m currently hyperfixated on German. I am into making animations and love to work around designs as well . 
+
+at present learning → building → breaking → rebuilding → shipping locally → breaking in production → debugging → repeating the loop
 
 **Let’s connect and Let's Build** ⭐️
 
