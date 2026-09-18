@@ -8,7 +8,7 @@ I'm currently working on PULSE AI as my primary project.
 
 I learn languages for fun. I know French and I’m currently hyperfixated on German. I am into making animations and love to work around designs as well . 
 
-at present learning → building → breaking → rebuilding → shipping locally → breaking in production → debugging → repeating the loop
+At present learning → building → breaking → rebuilding → shipping locally → breaking in production → debugging → repeating the loop
 
 **Let’s connect and Let's Build** ⭐️
 
